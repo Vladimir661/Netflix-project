@@ -1,6 +1,6 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import LogIn from "./logIn";
+import LogIn from "./LogIn";
 import SearchBar from "./SearchBar";
 
 function Header() {
